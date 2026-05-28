@@ -1,0 +1,15 @@
+--extra-index-url https://pytorch.org
+torch==2.3.1
+torchvision==0.18.1
+pymupdf==1.24.1
+surya-ocr==0.4.14
+pillow==10.3.0
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-text-splitters==0.0.1
+chromadb==0.5.0
+sentence-transformers==2.7.0
+streamlit==1.34.0
+pydantic==2.7.1
+python-dotenv==1.0.1
+tqdm
