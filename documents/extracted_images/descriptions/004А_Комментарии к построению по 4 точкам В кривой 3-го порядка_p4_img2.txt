@@ -1,0 +1,15 @@
+1.  КЛАССИФИКАЦИЯ: Математическая формула.
+2.  СУТЬ И КОНТЕКСТ: Формула представляет собой закономерность для определения геометрических преобразований и операций в 3D-геометрии. Предположительно, это формула для нахождения вектора нормали к поверхности в 3D-геометрии.
+3.  ДЕТАЛИЗАЦИЯ:
+
+    *   Вектор нормали: $\mathbf{N} = \frac{\mathbf{r} \times \mathbf{r}'}{\|\mathbf{r} \times \mathbf{r}'\|}$
+    *   Вектор нормали в заданном направлении: $\mathbf{N} = \frac{\mathbf{r} \times \mathbf{r}'}{\|\mathbf{r} \times \mathbf{r}'\|} \cdot \mathbf{e}_z$
+    *   Вектор нормали в заданном направлении и с заданной нормой: $\mathbf{N} = \frac{\mathbf{r} \times \mathbf{r}'}{\|\mathbf{r} \times \mathbf{r}'\|} \cdot \mathbf{e}_z \cdot \|\mathbf{N}\|$
+
+    *   Вектор нормали: $\mathbf{N} = \frac{\mathbf{r} \times \mathbf{r}'}{\|\mathbf{r} \times \mathbf{r}'\|}$
+    *   Вектор нормали в заданном направлении: $\mathbf{N} = \frac{\mathbf{r} \times \mathmathbf{r}'}{\|\mathbf{r} \times \mathbf{r}'\|} \cdot \mathbf{e}_z$
+    *   Вектор нормали в заданном направлении и с заданной нормой: $\mathbf{N} = \frac{\mathbf{r} \times \mathbf{r}'}{\|\mathbf{r} \times \mathbf{r}'\|} \cdot \mathbf{e}_z \cdot \|\mathbf{N}\|$
+
+    *   Вектор нормали: $\mathbf{N} = \frac{\mathbf{r} \times \mathbf{r}'}{\|\mathbf{r} \times \mathbf{r}'\|}$
+    *   Вектор нормали в заданном направлении: $\mathbf{N} = \frac{\mathbf{r} \times \mathmathbf{r}'}{\|\mathbf{r} \times \mathbf{r}'\|} \cdot \mathbf{e}_z$
+    *   Вектор нормали в заданном направлении и с заданной нормой: $\mathbf{N} = \frac{\mathbf{r} \times \mathbf{r}'}{\|\mathbf{r} \times \mathbf{r}'\|} \cdot \mathbf{e}_z \cdot \|\

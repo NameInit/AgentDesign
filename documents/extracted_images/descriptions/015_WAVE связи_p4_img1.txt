@@ -1,0 +1,52 @@
+**КЛАССИФИКАЦИЯ:** 3D геометрическая фигура.
+
+**СУТЬ И КОНТЕКСТ:** Изображение представляет собой геометрическую фигуру, которая может быть использована в качестве модели или для анализа свойств объекта в инженерном или геометрическом контексте. Фигура представляет собой полусферику, которая является одним из типов геометрических фигур в 3D-математике.
+
+**ДЕТАЛИЗАЦИЯ:**
+
+*   Фигура представляет собой полусферу.
+*   Полусфера имеет радиус R.
+*   Фигура имеет ось симметрии, которая проходит через центр полусферы и радиус.
+*   Фигура имеет ось симметрии, которая проходит через центр полусферы и радиус.
+*   Фигура имеет ось симметрии, которая проходит через центр полусферы и радиус.
+*   Фигура имеет ось симметрии, которая проходит через центр полусферы и радиус.
+
+Версия изображения в LaTeX:
+\begin{center}
+\begin{tikzpicture}
+\begin{scope}[isometric view, set
+\begin{scope}[shift={(0,0,0)}]
+\begin{scope}[xshift=1.5cm]
+\draw[->] (0,0,0) -- (1.5,0,0) node
+\end{scope}
+\begin{scope}[yshift=1.5cm]
+\draw[->] (0,0,0) -- (0,1.5,0) node
+\end{scope}
+\begin{scope}[xshift=1.5cm, yshift=1.5cm]
+\draw[->] (0,0,0) -- (1.5,1.5,0) node
+\end{scope}
+\end{scope}
+\begin{scope}[xshift=1.5cm, yshift=1.5cm]
+\draw[->] (0,0,0) -- (1.5,1.5,0) node
+\end{scope}
+\end{scope}
+\end{scope}
+\end{tikzpicture}
+\end{center}
+
+Версия изображения в LaTex:
+\begin{center}
+\begin{tikzpicture}
+\begin{scope}[isometric view, set
+\begin{scope}[shift={(0,0,0)}]
+\begin{scope}[xshift=1.5cm]
+\draw[->] (0,0,0) -- (1.5,0,0) node
+\end{scope}
+\begin{scope}[yshift=1.5cm]
+\draw[->] (0,0,0) -- (0,1.5,0) node
+\end{scope}
+\begin{scope}[xshift=1.5cm, yshift=1.5cm]
+\draw[->] (0,0,0) -- (1.5,1.5,0) node
+\end{scope}
+\end{scope}
+\begin{scope

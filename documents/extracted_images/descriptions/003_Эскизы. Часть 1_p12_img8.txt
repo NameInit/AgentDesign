@@ -1,0 +1,29 @@
+### КЛАССИФИКАЦИЯ:
+
+*   Представление: чертеж проекций.
+*   Система: Siemens NX.
+
+### СУТЬ И КОНТЕКСТ:
+
+*   Объект: 2D геометрическая фигура.
+*   Уравнение: математическая формула.
+*   Закон: математическая формула.
+
+### ДЕТАЛИЗАЦИЯ:
+
+*   Формула: \begin{align*}
+S&=\sqrt{\left(\frac{x_1-x_0}{\cos\alpha}\right)^2+\left(\frac{y_1-y_0}{\sin\alpha}\right)^2}\\
+&=\sqrt{\left(\frac{x_1-x_0}{\cos\alpha}\right)^2+\left(\frac{y_1-y_0}{\sin\alpha}\right)^2}
+\end{align*}
+*   Ключевые элементы:
+    *   Точки: \(x_0, y_0, x_1, y_1\)
+    *   Вектор: \(\vec{v}=\left\langle x_1-x_0, y_1-y_0\right\rangle\)
+    *   Парабола: \(S=\sqrt{\left(\frac{x_1-x_0}{\cos\alpha}\right)^2+\left(\frac{y_1-y_0}{\sin\alpha}\right)^2}\)
+    *   Парабола: \(S=\sqrt{\left(\frac{x_1-x_0}{\cos\alpha}\right)^2+\left(\frac{y_1-y_0}{\sin\alpha}\right)^2}\)
+    *   Парабола: \(S=\sqrt{\left(\frac{x_1-x_0}{\cos\alpha}\right)^2+\left(\frac{y_1-y_0}{\sin\alpha}\right)^2}\) 
+    *   Парабола: \(S=\sqrt{\left(\frac{x_1-x_0}{\cos\alpha}\right)^2+\left(\frac{y_1-y_0}{\sin\alpha}\right)^2}\)
+    *   Парабола: \(S=\sqrt{\left(\frac{x_1-x_0}{\cos\alpha}\right)^2+\left(\frac{y_1-y_0}{\sin\alpha}\right)^2}\)
+    *   Парабола: \(S=\sqrt{\left(\frac{x_1-x_0}{\cos\alpha}\right)^2+\left(\frac{y_1-y_0}{\sin\alpha}\right)^2}\)
+    *   Парабола: \(S=\sqrt{\left(\frac{x_1-x_0}{\cos\alpha}\right)^2+\left(\frac{y_1-y_0}{\sin\alpha}\right)^2}\)
+    *   Парабола: \(S=\sqrt{\left(\frac{x_1-x_0}{\cos\alpha}\right)^2+\left(\frac{y_1-y_0}{\sin\alpha}\right)^2}\)
+    *

@@ -1,0 +1,29 @@
+1. КЛАССИФИКАЦИЯ: Точный тип (математическая формула, 2D/3D геометрическая фигура, чертеж проекций, схема/алгоритм, график функции, интерфейс Siemens NX).
+
+Точная классификация: чертеж проекций.
+
+2. СУТЬ И КОНТЕКСТ: Инженерный и геометрический смысл. Что за объект, уравнение или закон здесь изображены?
+
+Описание: Изображение представляет собой чертеж проекций, который часто используется в инженерной геометрии и компьютерной графике для представления трехмерных объектов в двухмерном пространстве.
+
+3. ДЕТАЛИЗАЦИЯ: Если формула — переведи в LaTeX. Если фигура/чертеж/схема — перечисли все ключевые элементы (опорные точки, векторы, ребра, грани, оси, размеры, геометрические ограничения).
+
+Перевод в LaTeX:
+
+\begin{align*}
+\begin{pmatrix}
+x \\
+y \\
+z
+\end{pmatrix}
+\end{align*}
+
+Перечисление ключевых элементов:
+
+*   **Проволока** — представленная на чертеже проекции линия, которая может быть вектором или осью.
+*   **Плоскость** — плоскость, в которой проекция представлена.
+*   **Центр** — центр проекции, который может быть опорной точкой.
+*   **Радиус** — радиус, который может быть размером или расстоянием.
+*   **Геометрические ограничения** — могут быть представлены в виде линий, отсечек или других геометрических фигур.
+
+[Далее](https://www.oreilly.com/learn/machine-learning/what-is-3d-reconstruction.html) | [Домой](https://www.oreilly.com/learn/machine-learning/what-is-3d-reconstruction.html) | [Начало](https://www.oreilly.com/learn/machine-learning/what-is-3d-reconstruction.html) | [Повторить](https://www.oreilly.com/learn/machine-learning/what-is-3d-reconstruction.html) | [Следовать](https://www.oreilly.com/learn/machine-learning/what-is-3d-reconstruction.html) | [Смотреть](https://www.oreilly.com/learn/machine-learning/what-is-3d-reconstruction.html) | [Следовать](https://www.oreilly.com/learn/machine-learning/what-is-3d-reconstruction.html) | [Смотреть](https://www.oreilly.com/learn/machine-learning/what-is-3d-reconstruction.html) | [Следовать](https://www.oreilly.com/learn/machine-learning/what-is-3d-reconstruction.html) | [Смотреть](https://www.oreilly.com/learn/machine-learning/what-is-3d-reconstruction.html) | [Следовать

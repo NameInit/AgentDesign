@@ -1,0 +1,17 @@
+**КЛАССИФИКАЦИЯ:**
+
+*   Формула в LaTeX: 
+    \begin{align*}
+    \overline{r}(U V) = P + \rho \cdot \frac{C V}{\|C V\|} + \rho \cdot \frac{\sin(V)}{\|V\|} \cdot \frac{C V}{\|C V\|} \\
+    = P + \rho \cdot \frac{C V}{\|C V\|} + \rho \cdot \frac{\sin(V)}{\|V\|} \cdot \frac{C V}{\|C V\|} \\
+    = P + \rho \cdot \frac{C V}{\|C V\|} + \rho \cdot \frac{\sin(V)}{\|V\|} \cdot \frac{C V}{\|C V\|} \\
+    = P + \rho \cdot \frac{C V}{\|C V\|} + \rho \cdot \frac{\sin(V)}{\|V\|} \cdot \frac{C V}{\|C V\|} \\
+    = P + \rho \cdot \frac{C V}{\|C V\|} + \rho \cdot \frac{\sin(V)}{\|V\|} \cdot \frac{C V}{\|C V\|} \\
+    = P + \rho \cdot \frac{C V}{\|C V\|} + \rho \cdot \frac{\sin(V)}{\|V\|} \cdot \frac{C V}{\|C V\|} \\
+    = P + \rho \cdot \frac{C V}{\|C V\|} + \rho \cdot \frac{\sin(V)}{\|V\|} \cdot \frac{C V}{\|C V\|} \\
+    = P + \rho \cdot \frac{C V}{\|C V\|} + \rho \cdot \frac{\sin(V)}{\|V\|} \cdot \frac{C V}{\|C V\|} \\
+    = P + \rho \cdot \frac{C V}{\|C V\|} + \rho \cdot \frac{\sin(V)}{\|V\|} \cdot \frac{C V}{\|C V\|} \\
+    = P + \rho \cdot \frac{C V}{\|C V\|} + \rho \cdot \frac{\sin(V)}{\|V\|} \cdot \frac{C V}{\|C V\|} \\
+    = P + \rho \cdot \frac{C V}{\|C V\|} + \rho \cdot \frac{\sin(V)}{\|V\|} \cdot \frac{C V}{\|C V\|} \\
+    = P + \rho \cdot \frac{C V}{\|C V\|} + \rho \cdot \frac{\sin(V)}{\|V\|} \cdot \frac{C V}{\|C V\|} \\
+    = P + \rho \cdot \frac{C V

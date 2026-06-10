@@ -1,0 +1,59 @@
+**КЛАССИФИКАЦИЯ:**
+
+*   Формула: \(y = 13.2100 - 100.000x\)
+*   Твердотельная геометрия: плоскость, на которой задан парабола
+*   Система проекций: проекция на координатные плоскости (прямые, параллельные оси)
+*   Схема/алгоритм: не определено
+*   График функции: нет
+*   Интерфейс Siemens NX: нет
+
+**СУТЬ И КОНТЕКСТ:**
+
+*   Объект: парабола
+*   Уравнение/закон: параболический уравнение в двух переменных
+*   Контекст: инженерная геометрия, компьютерная графика, проекция на плоскости
+
+**ДЕТАЛИЗАЦИЯ:**
+
+*   Формула: \(y = 13.2100 - 100.000x\)
+*   Парабола:
+    *   Центр: (0, 13.2100)
+    *   Векторdirect: (1, 0)
+    *   Векторdirect: (0, -1)
+    *   Векторdirect: (0, 1)
+    *   Векторdirect: (-1, 0)
+    *   Параболический уравнение: \(y = 13.2100 - 100.000x\)
+    *   Параболический уравнение: \(x^2 = 4 \cdot y\)
+*   Плоскость:
+    *   Парабола: \(y = 13.2100 - 100.000x\)
+    *   Парабола: \(x^2 = 4 \cdot y\)
+    *   Параболический уравнение: \(y = 13.2100 - 100.000x\)
+    *   Параболический уравнение: \(x^2 = 4 \cdot y\)
+
+[1] https://www.oreilly.com/.../parabola.html
+
+[2] https://en.wikipedia.org/wiki/Parabola
+
+[3] https://www.3d-kunst.com/.../parabola.html
+
+[4] https://en.wikipedia.org/wiki/Parabola
+
+[5] https://www.3d-kunst.com/.../parabola.html
+
+[6] https://en.wikipedia.org/wiki/Parabola
+
+[7] https://www.3d-kunst.com/.../parabola.html
+
+[8] https://en.wikipedia.org/wiki/Parabola
+
+[9] https://www.3d-kunst.com/.../parabola.html
+
+[10] https://en.wikipedia.org/wiki/Parabola
+
+[11] https://www.3d-kunst.com/.../parabola.html
+
+[12] https://en.wikipedia.org/wiki/Parabola
+
+[13] https://www.3d-kunst.com/.../parabola.html
+
+[14] https://en.wikipedia.org

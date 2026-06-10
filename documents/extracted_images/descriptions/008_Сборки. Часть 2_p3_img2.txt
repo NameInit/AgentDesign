@@ -1,0 +1,42 @@
+**КЛАССИФИКАЦИЯ**: Формула в LaTeX: 
+
+$$
+\begin{aligned}
+\frac{1}{\sqrt{x^2 + y^2}} \left( \frac{y}{x} \right)^{\frac{1}{2}} = \frac{1}{\sqrt{x^2 + y^2}} \left( \frac{x}{y} \right)^{\frac{1}{2}}
+\end{aligned}
+$$
+
+Это уравнение в полярных координатах.
+
+**СУТЬ И КОНТЕКСТ**: Это уравнение для определения векторного поля на плоскости в полярных координатах. Уравнение описывает взаимосвязь между вектором в полярных координатах и вектором в декартовых координатах.
+
+**ДЕТАЛИЗАЦИЯ**:
+
+*   Вектор в полярных координатах: $ \left( \frac{y}{x} \right)^{\frac{1}{2}} $
+*   Вектор в декартовых координатах: $ \left( \frac{y}{x} \right)^{\frac{1}{2}} $
+*   Полярные координаты: $ \left( \frac{y}{x} \right)^{\frac{1}{2}} $
+*   Декартовые координаты: $ \left( \frac{y}{x} \right)^{\frac{1}{2}} $
+*   Векторное поле: $ \left( \frac{y}{x} \right)^{\frac{1}{2}} $
+*   Полярная система координат: $ \left( \frac{y}{x} \right)^{\frac{1}{2}} $
+*   Декартова система координат: $ \left( \frac{y}{x} \right)^{\frac{1}{2}} $
+
+Версия на английском:
+
+**CLASSIFICATION**: Formula in LaTeX:
+
+$$
+\begin{aligned}
+\frac{1}{\sqrt{x^2 + y^2}} \left( \frac{y}{x} \right)^{\frac{1}{2}} = \frac{1}{\sqrt{x^2 + y^2}} \left( \frac{x}{y} \right)^{\frac{1}{2}}
+\end{aligned}
+$$
+
+This is an equation in polar coordinates.
+
+**CONTEXT AND MEANING**: This is an equation for determining a vector field on a plane in polar coordinates. The equation describes the relationship between a vector in polar coordinates and a vector in Cartesian coordinates.
+
+**DETAILED ANALYSIS**:
+
+*   Vector in polar coordinates: $ \left( \frac{y}{x} \right)^{\frac{1}{2}} $
+*   Vector in Cartesian coordinates: $ \left( \frac{y}{x} \right)^{\frac{1}{2}} $
+*   Polar coordinates: $ \left( \frac{y}{x} \right)^{\frac{1}{2}} $
+*   Cartesian coordinates: $ \left( \frac{y}{x} \right)^{\frac{1}{2}}

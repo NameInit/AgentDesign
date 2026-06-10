@@ -1,0 +1,35 @@
+**КЛАССИФИКАЦИЯ**
+
+*   Формула: нет
+*   2D/3D геометрическая фигура: нет
+*   Чертеж проекций: да
+*   Схема/алгоритм: нет
+*   График функции: нет
+*   Интерфейс Siemens NX: да
+
+**СУТЬ И КОНТЕКСТ**
+
+*   Объект: нет
+*   Уравнение: нет
+*   Закон: нет
+*   Аналитические кривые/поверхности: нет
+*   Полигональные сетки: нет
+*   Твердотельные операции: нет
+*   Сопряжения: нет
+*   Матрицы преобразований: нет
+*   Методы начертательной геометрии: нет
+*   Контекст: проекция на плоскость
+
+**ДЕТАЛИЗАЦИЯ**
+
+*   Ключевые элементы:
+    *   2D-чертеж проекций
+    *   3D-объекты
+    *   Трёхмерные проекции
+    *   Плоскость проекции
+    *   Изометрическая проекция
+    *   Скалярное и векторное проектирование
+    *   Трансформации и операции с проекциями
+    *   Визуализация и интерактивное управление проекциями
+    *   Операции с проекциями: перевод, масштабирование, сдвиг, вращение, масштабирование, сдвиг, вращение, масштабирование, сдвиг, вращение
+    *   Трёхмерные объекты: точки, линии, плоскости,polygons,curves, surfaces, volumes, meshes, solids, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells, shells,

@@ -1,0 +1,23 @@
+1. КЛАССИФИКАЦИЯ: Точный тип — это математическая формула.
+2. СУТЬ И КОНТЕКСТ: Инженерный и геометрический смысл — это уравнение прямой в трехмерном пространстве.
+3. ДЕТАЛИЗАЦИЯ: Формула:
+
+\begin{align*}
+\overrightarrow{r}(U,V) = \overrightarrow{P} + \rho \cdot \overrightarrow{CosU} \cdot \overrightarrow{i} + \rho \cdot \overrightarrow{SinV} \cdot \overrightarrow{j} + h \cdot \overrightarrow{k}
+\end{align*}
+
+где:
+- $\overrightarrow{P}$ — начало координатной плоскости
+- $\rho$ — радиус вращения
+- $\overrightarrow{CosU}$ и $\overrightarrow{SinV}$ — векторы кривой
+- $h$ — высота вращения
+- $U$ и $V$ — параметры вращения
+- $\overrightarrow{i}$, $\overrightarrow{j}$ и $\overrightarrow{k}$ — единичные векторы в трехмерном пространстве.
+
+Список ключевых элементов:
+- $\overrightarrow{P}$ — начало координатной плоскости
+- $\rho$ — радиус вращения
+- $\overrightarrow{CosU}$ и $\overrightarrow{SinV}$ — векторы кривой
+- $h$ — высота вращения
+- $U$ и $V$ — параметры вращения
+- $\overrightarrow{i}$, $\overrightarrow{j}$ и $\overrightarrow{k}$ — единичные векторы в трехмерном пространстве.

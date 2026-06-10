@@ -1,0 +1,24 @@
+### КЛАССИФИКАЦИЯ
+
+*   Формула: \[ \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2 u}{\partial z^2} = 0 \]
+*   2D геометрическая фигура: не определена
+*   Чертеж проекций: нет
+*   Схема/алгоритм: нет
+*   График функции: нет
+*   Интерфейс Siemens NX: нет
+
+### СУТЬ И КОНТЕКСТ
+
+*   Объект: Уравнение Лапласа
+*   Уравнение/закон: Уравнение Лапласа для трехмерного потенциала
+
+### ДЕТАЛИЗАЦИЯ
+
+*   Формула: Уравнение Лапласа для трехмерного потенциала: \[ \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2 u}{\partial z^2} = 0 \]
+*   Ключевые элементы:
+    *   Уравнение Лапласа
+    *   Три переменные: x, y, z
+    *   Три производные: \[ \frac{\partial^2 u}{\partial x^2} \], \[ \frac{\partial^2 u}{\partial y^2} \], \[ \frac{\partial^2 u}{\partial z^2} \]
+    *   Треугольная матрица: \[ \begin{pmatrix} \frac{\partial^2 u}{\partial x^2} & \frac{\partial^2 u}{\partial y \partial x} & \frac{\partial^2 u}{\partial z \partial x} \\ \frac{\partial^2 u}{\partial x \partial y} & \frac{\partial^2 u}{\partial y^2} & \frac{\partial^2 u}{\partial z \partial y} \\ \frac{\partial^2 u}{\partial x \partial z} & \frac{\partial^2 u}{\partial y \partial z} & \frac{\partial^2 u}{\partial z^2} \end{pmatrix} \]
+
+[Вернуться к Таблице событий](#Таблица_событий)

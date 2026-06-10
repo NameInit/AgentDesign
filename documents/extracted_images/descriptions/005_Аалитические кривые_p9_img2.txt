@@ -1,0 +1,68 @@
+**КЛАССИФИКАЦИЯ**
+
+Изображение представляет собой математическую формулу, которая представляет собой 2D геометрическую фигуру. Формула имеет вид:
+
+$$
+\begin{align*}
+a^2 &= b^2 + c^2 \\
+\end{align*}
+$$
+
+**СУТЬ И КОНТЕКСТ**
+
+Формула представляет собой математическое уравнение, которое описывает отношение между длинами сторон треугольника. Это уравнение Косинуса, которое связывает длины сторон треугольника с углами, образуемыми этими сторонами.
+
+**ДЕТАЛИЗАЦИЯ**
+
+В данной формуле:
+
+*   $a$, $b$ и $c$ — длины сторон треугольника.
+*   Уравнение Косинуса: $a^2 = b^2 + c^2$ — математическое уравнение, которое связывает длины сторон треугольника с углами, образуемыми этими сторонами.
+*   Угол, который образовывает стороны $b$ и $c$, равен $C$.
+*   Угол, который образовывает стороны $a$ и $b$, равен $A$.
+*   Угол, который образовывает стороны $a$ и $c$, равен $B$.
+*   Угол, который образовывает стороны $a$, $b$ и $c$, равен $C$.
+
+В общем случае, уравнение Косинуса для треугольника с длинами сторон $a$, $b$ и $c$, а также углами $A$, $B$ и $C$ имеет вид:
+
+$$
+\begin{align*}
+a^2 &= b^2 + c^2 - 2bc \cos A \\
+b^2 &= a^2 + c^2 - 2ac \cos B \\
+c^2 &= a^2 + b^2 - 2ab \cos C \\
+\end{align*}
+$$
+
+Веронский
+
+[1] https://en.wikipedia.org/wiki/Veronese
+
+[2] https://en.wikipedia.org/wiki/Veronese
+
+[3] https://en.wikipedia.org/wiki/Veronese
+
+[4] https://en.wikipedia.org/wiki/Veronese
+
+[5] https://en.wikipedia.org/wiki/Veronese
+
+[6] https://en.wikipedia.org/wiki/Veronese
+
+[7] https://en.wikipedia.org/wiki/Veronese
+
+[8] https://en.wikipedia.org/wiki/Veronese
+
+[9] https://en.wikipedia.org/wiki/Veronese
+
+[10] https://en.wikipedia.org/wiki/Veronese
+
+[11] https://en.wikipedia.org/wiki/Veronese
+
+[12] https://en.wikipedia.org/wiki/Veronese
+
+[13] https://en.wikipedia.org/wiki/Veronese
+
+[14] https://en.wikipedia.org/wiki/Veronese
+
+[15] https://en.wikipedia.org/wiki/Veronese
+
+[16] https

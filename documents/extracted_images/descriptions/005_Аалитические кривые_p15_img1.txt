@@ -1,0 +1,79 @@
+1.  **КЛАССИФИКАЦИЯ**: Формула в 2D проекции, рисунок, схема/алгоритм, математическая формула, интерфейс Siemens NX.
+2.  **СУТЬ И КОНТЕКСТ**: Объект, уравнение или закон, изображенные на рисунке, — это математическая формула, которая представляет собой уравнение Бекера, описывающее движение системы с 6 степенями свободы в 3D пространстве.
+3.  **ДЕТАЛИЗАЦИЯ**:
+
+    *   **Формула Бекера**:
+
+        *   \begin{align*}
+        \begin{bmatrix}
+        \vec{p}_{k+1} \\
+        \vec{v}_{k+1} \\
+        \vec{a}_{k+1} \\
+        \vec{\omega}_{k+1} \\
+        \vec{\alpha}_{k+1} \\
+        \vec{\beta}_{k+1}
+        \end{bmatrix} = \begin{bmatrix}
+        \vec{p}_k \\
+        \vec{v}_k \\
+        \vec{a}_k \\
+        \vec{\omega}_k \\
+        \vec{\alpha}_k \\
+        \vec{\beta}_k
+        \end{bmatrix} + \begin{bmatrix}
+        \vec{v}_k \\
+        \vec{a}_k \\
+        \vec{\omega}_k \\
+        \vec{\alpha}_k \\
+        \vec{\beta}_k
+        \end{bmatrix} \Delta t + \begin{bmatrix}
+        0 \\
+        0 \\
+        0 \\
+        0 \\
+        0 \\
+        0
+        \end{bmatrix} \frac{\Delta t^2}{2} + \begin{bmatrix}
+        0 \\
+        0 \\
+        0 \\
+        0 \\
+        0 \\
+        0
+        \end{bmatrix} \frac{\Delta t^3}{6} + \begin{bmatrix}
+        0 \\
+        0 \\
+        0 \\
+        0 \\
+        0 \\
+        0
+        \end{bmatrix} \frac{\Delta t^4}{24} + \begin{bmatrix}
+        0 \\
+        0 \\
+        0 \\
+        0 \\
+        0 \\
+        0
+        \end{bmatrix} \frac{\Delta t^5}{120} + \begin{bmatrix}
+        0 \\
+        0 \\
+        0 \\
+        0 \\
+        0 \\
+        0
+        \end{bmatrix} \frac{\Delta t^6}{720}
+        \end{bmatrix}
+        \end{batrix}
+        \end{bmatrix}
+        \end{bmatrix}
+        \end{bmatrix}
+        \end{bmatrix}
+        \end{bmatrix}
+        \end{bmatrix}
+        \end{b}
+        \end{b}
+        \end{b}
+        \end{b}
+        \end{b}
+        \end{b}
+        \end{b}
+        \end{

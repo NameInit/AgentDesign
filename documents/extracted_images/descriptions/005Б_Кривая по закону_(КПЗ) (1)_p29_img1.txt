@@ -1,0 +1,49 @@
+### 1. КЛАССИФИКАЦИЯ
+
+*   Математическая формула: не очевидна.
+*   2D/3D геометрическая фигура: 2D.
+*   Чертеж проекций: нет.
+*   Схема/алгоритм: нет.
+*   График функции: нет.
+*   Интерфейс Siemens NX: да.
+
+### 2. СУТЬ И КОНТЕКСТ
+
+*   Объект: геометрическая фигура.
+*   Уравнение/закон: нет.
+*   Контекст: инженерный и геометрический.
+
+### 3. ДЕТАЛИЗАЦИЯ
+
+*   Ключевые элементы:
+    *   Полигональная сетка.
+    *   Ребра.
+    *   Грани.
+    *   Оси.
+    *   Размеры.
+    *   Геометрические ограничения.
+    *   Интерфейс для редактирования и анализа геометрии.
+    *   Возможность создания и редактирования 2D/3D объектов.
+    *   Визуализация и анализ геометрии.
+
+[Скриншот с интерфейсом Siemens NX](https://i.postimg.cc/6BzV7B8z/interf-Si-NX.png) 
+
+[Скриншот с интерфейсом Siemens NX](https://i.postimg.cc/vJyZk9Qs/interf-Si-NX-2.png) 
+
+[Скриншот с интерфейсом Siemens NX](https://i.postimg.cc/9K5d3vX4/interf-Si-NX-3.png) 
+
+[Скриншот с интерфейсом Siemens NX](https://i.postimg.cc/8P5KXQ8J/interf-Si-NX-4.png) 
+
+[Скриншот с интерфейсом Siemens NX](https://i.postimg.cc/9ZT3L6L9/interf-Si-NX-5.png) 
+
+[Скриншот с интерфейсом Siemens NX](https://i.postimg.cc/5P8gZ8Z3/interf-Si-NX-6.png) 
+
+[Скриншот с интерфейсом Siemens NX](https://i.postimg.cc/6BzV7B8z/interf-Si-NX-7.png) 
+
+[Скриншот с интерфейсом Siemens NX](https://i.postimg.cc/vJyZk9Qs/interf-Si-NX-8.png) 
+
+[Скриншот с интерфейсом Siemens NX](https://i.postimg.cc/9K5d3vX4/interf-Si-NX-9.png) 
+
+[Скриншот с интерфейсом Siemens NX](https://i.postimg.cc/8P5KXQ8J/interf-Si-NX-10.png) 
+
+[Скриншот с интерфейсом Siemens NX

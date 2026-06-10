@@ -1,0 +1,47 @@
+**КЛАССИФИКАЦИЯ:**
+
+Изображение представляет собой интерфейс программного обеспечения Siemens NX, который является системой компьютерной аналитической геометрии и моделирования (САПР).
+
+**СУТЬ И КОНТЕКСТ:**
+
+В изображении показан интерфейс программы для создания и редактирования 3D-моделей. В частности, на экране отображен инструмент для создания или изменения геометрической формы, вероятно, на основе математических уравнений или параметрических моделей. В контексте САПР и компьютерной графики это может быть инструмент для моделирования или проекции 3D-объекта с помощью математических уравнений или параметрического моделирования.
+
+**ДЕТАЛИЗАЦИЯ:**
+
+*   Инструмент для создания или редактирования геометрической формы.
+*   Панель инструментов с разными кнопками и меню.
+*   Возможно, визуализация 3D-объекта или проекции с помощью математических уравнений или параметрического моделирования.
+*   Возможно, инструменты для работы с математическими уравнениями или параметрическими моделями.
+*   Возможно, инструменты для проекции или визуализации 3D-объекта.
+
+Сервер: https://www.siemens.com/innovations/computeraided-design-cad.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-software.html
+
+Сервер: https://www.siemens.com/innovations/3d-cad-so

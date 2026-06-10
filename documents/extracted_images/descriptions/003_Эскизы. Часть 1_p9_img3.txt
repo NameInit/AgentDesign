@@ -1,0 +1,24 @@
+### КЛАССИФИКАЦИЯ
+
+Изображение представляет собой чертеж проекций 2D геометрической фигуры, которая состоит из двух прямых, пересекающихся под прямым углом, с двумя кругами в качестве опорных точек. Этот объект является 2D геометрической фигурой, используемой в инженерной геометрии и компьютерной графике.
+
+### СУТЬ И КОНТЕКСТ
+
+Изображение представляет собой чертеж проекций 2D геометрической фигуры, которая состоит из двух прямых, пересекающихся под прямым углом, с двумя кругами в качестве опорных точек. Этот объект является 2D геометрической фигурой, используемой в инженерной геометрии и компьютерной графике.
+
+### ДЕТАЛИЗАЦИЯ
+
+*   **Формула:**
+    *   Ниже представленная формула не имеет прямого отношения к изображению. Формула представляет собой математическое уравнение, описывающее поведение физического объекта.
+    *   Ниже представленная математическая формула:
+    *   $$\begin{equation*}
+    \begin{array}{rcl}
+    \textbf{d} &amp; \textbf{=}&amp; \textbf{r} \textbf{ \textit{mod}} \textbf{c} \\
+    \textbf{r} &amp; \textbf{=}&amp; \textbf{r}_{\textbf{1}} \textbf{ + } \textbf{r}_{\textbf{2}} \\
+    \textbf{r}_{\textbf{1}} &amp; \textbf{=}&amp; \textbf{r}_{\textbf{1}} \textbf{ \textit{mod}} \textbf{c} \\
+    \textbf{r}_{\textbf{2}} &amp; \textbf{=}&amp; \textbf{r}_{\textbf{2}} \textbf{ \textit{mod}} \textbf{c} \\
+    \textbf{r} &amp; \textbf{=}&amp; \textbf{r}_{\textbf{1}} \textbf{ + } \textbf{r}_{\textbf{2}} \\
+    \textbf{d} &amp; \textbf{=}&amp; \textbf{r} \textbf{ \textit{mod}} \textbf{c} \\
+    \textbf{r} &amp; \textbf{=}&amp; \textbf{r}_{\textbf{1}} \textbf{ + } \textbf{r}_{\textbf{2}} \\
+    \textbf{d} &amp; \textbf{=}&amp; \textbf{r} \textbf{ \textit{mod}} \textbf{c} \\
+    \textbf{r} &amp; \textbf{=}&amp; \textbf{r}_{\textbf{1}}

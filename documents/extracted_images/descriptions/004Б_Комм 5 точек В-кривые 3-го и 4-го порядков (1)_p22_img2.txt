@@ -1,0 +1,20 @@
+**КЛАССИФИКАЦИЯ:** Точный тип — это 2D геометрическая фигура, представленная математической формулой.
+
+**СУТЬ И КОНТЕКСТ:** Инженерный и геометрический смысл — это аналитическая кривая, представленная математической формулой.
+
+**ДЕТАЛИЗАЦИЯ:**
+
+*   Формула: 
+    \[y = \sin(x) + \sin(2x) + \sin(3x)\]
+    \[y = \sin(x) + \sin(2x) + \sin(3x) + \sin(4x) + \sin(5x)\]
+    \[y = \sin(x) + \sin(2x) + \sin(3x) + \sin(4x) + \sin(5x) + \sin(6x) + \sin(7x)\]
+    \[y = \sin(x) + \sin(2x) + \sin(3x) + \sin(4x) + \sin(5x) + \sin(6x) + \sin(7x) + \sin(8x) + \sin(9x)\]
+    \[y = \sin(x) + \sin(2x) + \sin(3x) + \sin(4x) + \sin(5x) + \sin(6x) + \sin(7x) + \sin(8x) + \sin(9x) + \sin(10x) + \sin(11x)\]
+
+    \[y = \sin(x) + \sin(2x) + \sin(3x) + \sin(4x) + \sin(5x) + \sin(6x) + \sin(7x) + \sin(8x) + \sin(9x) + \sin(10x) + \sin(11x) + \sin(12x) + \sin(13x)\]
+
+    \[y = \sin(x) + \sin(2x) + \sin(3x) + \sin(4x) + \sin(5x) + \sin(6x) + \sin(7x) + \sin(8x) + \sin(9x) + \sin(10x) + \sin(11x) + \sin(12x) + \sin(13x) + \sin(14x) + \sin(15x)\]
+
+    \[y = \sin(x) + \sin(2x) + \sin(3x) + \sin(4x) + \sin(5x) + \sin(6x) + \sin(7x) + \sin(8x) + \sin(9x) + \sin(10x) + \sin(11x) + \sin(12x) + \sin(13x) + \sin(14x) + \sin(15x) + \sin(16x) + \sin(17x)\]
+
+    \[y = \sin(x) + \sin

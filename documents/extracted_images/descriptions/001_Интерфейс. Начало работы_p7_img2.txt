@@ -1,0 +1,106 @@
+### КЛАССИФИКАЦИЯ
+
+*   Тип: 2D геометрическая фигура, проекция сечений.
+*   Система: САПР Siemens NX.
+
+### СУТЬ И КОНТЕКСТ
+
+*   Объект: геометрическая фигура сечения.
+*   Контекст: проекция сечения в САПР Siemens NX.
+*   Инженерный смысл: проекция сечения может быть использована в инженерных задачах для определения размеров и формы объектов.
+
+### ДЕТАЛИЗАЦИЯ
+
+*   Фигура: геометрическая фигура сечения.
+*   Элементы:
+    *   Опорные точки: 4 точки.
+    *   Векторы: нет.
+    *   Ребра: 4 ребра.
+    *   Грани: 4 грани.
+    *   Оси: нет.
+    *   Размеры: нет.
+    *   Геометрические ограничения: нет.
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://yandex.ru/)
+
+[Вопрос](https://yandex.ru/)
+
+[Ответ](https://

@@ -1,0 +1,53 @@
+1. КЛАССИФИКАЦИЯ: Формула в LaTeX
+
+\begin{align*}
+\mathbf{M} &= \begin{bmatrix}
+\mathbf{R} & \mathbf{P} \\
+\mathbf{P}^T & \mathbf{S}
+\end{bmatrix}, \\
+\mathbf{M} &= \begin{bmatrix}
+\mathbf{R} & \mathbf{P} \\
+\mathbf{P}^T & \mathbf{S}
+\end{bmatrix}, \\
+\mathbf{M} &= \begin{bmatrix}
+\mathbf{R} & \mathbf{P} \\
+\mathbf{P}^T & \mathbf{S}
+\end{bmatrix}, \\
+\mathbf{M} &= \begin{bmatrix}
+\mathbf{R} & \mathbf{P} \\
+\mathbf{P}^T & \mathbf{S}
+\end{bmatrix}, \\
+\mathbf{M} &= \begin{bmatrix}
+\mathbf{R} & \mathbf{P} \\
+\mathbf{P}^T & \mathbf{S}
+\end{bmatrix}, \\
+\mathbf{M} &= \begin{bmatrix}
+\mathbf{R} & \mathbf{P} \\
+\mathbf{P}^T & \mathbf{S}
+\end{bmatrix}, \\
+\mathbf{M} &= \begin{bmatrix}
+\mathbf{R} & \mathbf{P} \\
+\mathbf{P}^T & \mathbf{S}
+\end{bmatrix}, \\
+\mathbf{M} &= \begin{bmatrix}
+\mathbf{R} & \mathbf{P} \\
+\mathbf{P}^T & \mathbf{S}
+\end{bmatrix}, \\
+\mathbf{M} &= \begin{bmatrix}
+\mathbf{R} & \mathbf{P} \\
+\mathbf{P}^T & \mathbf{S}
+\end{bmatrix}, \\
+\mathbf{M} &= \begin{bmatrix}
+\mathbf{R} & \mathbf{P} \\
+\mathbf{P}^T & \mathbf{S}
+\end{bmatrix}, \\
+\mathbf{M} &= \begin{bmatrix}
+\mathbf{R} & \mathbf{P} \\
+\mathbf{P}^T & \mathbf{S}
+\end{bmatrix}, \\
+\mathbf{M} &= \begin{bmatrix}
+\mathbf{R} & \mathbf{P} \\
+\math
+\end{align*}
+
+2. СУТЬ И КОНТЕКСТ: Данная матрица — это матрица сдвига, которая описывает сдвиги и вращения 3D-объекта. Матрица сдвига — это матрица, которая описывает сдвижение и вращение 3D-объекта. Она состоит из четырёх матриц: матрицы сдвига
