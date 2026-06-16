@@ -42,6 +42,7 @@ class ChunkingConfig:
     CHUNK_SIZE: int = 1500
     CHUNK_OVERLAP: int = 300
     IMAGE_DPI: int = 150
+    COLLECTION_NAME: str = "pdf_knowledge_base"
 
 @dataclass(frozen=True)
 class PathConfig:
@@ -60,11 +61,11 @@ class PathConfig:
         return self.PROJECT_DIR / "documents" / "extracted_images" / "descriptions"
 
     @property
-    def chunks_json_path(self) -> Path:
+    def chunks_json_dir(self) -> Path:
         return self.PROJECT_DIR / "db" / "chunks.json"
     
     @property
-    def vector_db_dir(self) -> Path:
+    def chroma_db_dir(self) -> Path:
         return self.PROJECT_DIR / "db" / "chroma_db"
 
 class AppConfig:
